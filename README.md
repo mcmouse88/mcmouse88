@@ -33,8 +33,27 @@
 ### &nbsp;Обо мне:
 Самостоятельно изучаю языки программирования, начинал с C++ и C#, но позже перешел на Java, а уже потом непосредственно на Kotlin, и более детально начал изучать разработку мобильных приложений под ОС Android. Нравится писать код, и все свое свободное время стараюсь посвещать этому. В данный момент прохожу курсы Android-разработчик с освоением таких языков как Java/Kotlin от университета Нетологии. Уверенно пользуюсь Intellij IDEA и Android Studio. Достаточно хорошо владею навыками использования систем контроля версий Git. У меня математический склад ума и хорошо развитое логическое мышление. Над задачей обычно сижу до тех пор, пока не решу. Навык английского Elementary, возможно выше, имею большой словарный запас, но не очень хорошо воспринимаю на слух, но в целом знаний хватает для чтения официальной документации. Планирую сменить сферу деятельности и профессию. Опыт в программировании около года в различных учебных проектах и тестовых заданиях.
 
+### &nbsp;Стек технологий:
+
+<div>
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/intellij_idea.png" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/android_studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/git.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gitlab.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gradle.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/junit4.png" title="JUnit"  alt="JUnit" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/jetpack-compose.png" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/rxjava.png" title="RXJava" alt="RXJava" width="40" height="40"/>&nbsp;
+</div>
+
 <details>
-  <summary>Стек технологий:</summary>
+  <summary>Полный перечень:</summary>
  
 * Java
 * Kotlin
@@ -57,6 +76,7 @@
 * Coroutines
 * RXJava
 * Retrofit
+* Room
 </details>
 
 <details>

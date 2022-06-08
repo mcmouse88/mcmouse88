@@ -1,6 +1,6 @@
 # Раздобудько Сергей Петрович
 
-![Banner](https://github.com/mcmouse88/mcmouse88/blob/main/photo/photo.png)
+![Banner](https://github.com/mcmouse88/mcmouse88/blob/main/photo/photo.JPG)
 
 <img alt="Binary code" src="https://github.com/mcmouse88/mcmouse88/blob/main/anim/stock-footage-hexadecimal-big-data-digital-code-running-through-black-and-blue-mainframe-in-a-futuristic.gif" width='500' align="right"/>
 

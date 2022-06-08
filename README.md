@@ -42,7 +42,7 @@
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/android_studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/git.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/github.png"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gitlab.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;

@@ -1,6 +1,9 @@
 # Резюме - Раздобудько Сергей Петрович
 
+<img alt="Binary code" src="https://github.com/mcmouse88/mcmouse88/blob/main/anim/stock-footage-hexadecimal-big-data-digital-code-running-through-black-and-blue-mainframe-in-a-futuristic.gif" align="right"/>
+
 ### &nbsp;Личная информация:
+
 * :man: &nbsp;ФИО: Раздобудько Сергей Петрович
 * :date: &nbsp;Дата рождения: 13 ноября 1988 (33 года)
 * :ru: &nbsp;Гражданство: Российская Федерация

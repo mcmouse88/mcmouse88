@@ -31,7 +31,7 @@
 * настойчив и решителен
 
 ### &nbsp;Обо мне:
-Самостоятельно изучаю языки программирования, начинал с C++ и C#, но позже перешел на Java, а уже потом непосредственно на Kotlin, и более детально начал изучать разработку мобильных приложений под ОС Android. Нравится писать код, и все свое свободное время стараюсь посвещать этому. В данный момент прохожу курсы Android-разработчик с освоением таких языков как Java/Kotlin от университета Нетологии. Уверенно пользуюсь Intellij IDEA и Android Studio. Достаточно хорошо владею навыками использования систем контроля версий Git. У меня математический склад ума и хорошо развитое логическое мышление. Над задачей обычно сижу до тех пор, пока не решу. Навык английского Elementary, возможно выше, имею большой словарный запас, но не очень хорошо воспринимаю на слух, но в целом знаний хватает для чтения официальной документации. Планирую сменить сферу деятельности и профессию. Опыт в программировании около года в различных учебных проектах и тестовых заданиях.
+Самостоятельно изучаю языки программирования, начинал с C++ и C#, но позже перешел на Java, а уже потом непосредственно на Kotlin, и более детально начал изучать разработку мобильных приложений под ОС Android. Нравится писать код, и все свое свободное время стараюсь посвещать этому. В данный момент прохожу курсы Android-разработчик с освоением таких языков как Java/Kotlin от университета Нетологии. Уверенно пользуюсь Intellij IDEA и Android Studio. Достаточно хорошо владею навыками использования систем контроля версий Git. Имею базовые знания в SQL на уровне написания простых запросов. У меня математический склад ума и хорошо развитое логическое мышление. Над задачей обычно сижу до тех пор, пока не решу. Навык английского Elementary, возможно выше, имею большой словарный запас, но не очень хорошо воспринимаю на слух, но в целом знаний хватает для чтения официальной документации. Планирую сменить сферу деятельности и профессию. Опыт в программировании около года в различных учебных проектах и тестовых заданиях.
 
 ### &nbsp;Стек технологий:
 
@@ -97,3 +97,23 @@
 </a>
 </p>
 </details>
+
+### &nbsp;Контакты:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sergey-razdobudko-074b06237">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/sergei_razdobudko">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://t.me/T4e_S1nner">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://gitlab.com/mcmouse88">
+    <img src="https://img.shields.io/badge/Gitlab-ffae00?style=for-the-badge&logo=gitlab&logoColor=orange" alt="Gitlab Badge"/>
+  </a>
+  <a href="https://bitbucket.org/mcmouse88/">
+    <img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=00ddff" alt="Bitbucket Badge"/>
+  </a>
+</div>

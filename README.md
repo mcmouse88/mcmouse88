@@ -2,39 +2,26 @@
 
 ![Banner](https://github.com/mcmouse88/mcmouse88/blob/main/photo/photo.png)
 
-<img alt="Binary code" src="https://github.com/mcmouse88/mcmouse88/blob/main/anim/stock-footage-hexadecimal-big-data-digital-code-running-through-black-and-blue-mainframe-in-a-futuristic.gif" width='500' align="right"/>
+<img alt="Binary code" src="https://github.com/mcmouse88/mcmouse88/blob/main/anim/stock-footage-hexadecimal-big-data-digital-code-running-through-black-and-blue-mainframe-in-a-futuristic.gif" width='50%' align="right"/>
 
-### &nbsp;Личная информация:
+### &nbsp;Personal information:
 
-* &nbsp;ФИО: Раздобудько Сергей Петрович
-* &nbsp;Дата рождения: 13 ноября 1988 (33 года)
-* &nbsp;Гражданство: Российская Федерация
-* &nbsp;Образование: Высшее
-* &nbsp;Пол: Мужской
-* &nbsp;Семейное положение: Холост
-* &nbsp;Дети: Нет
+* &nbsp;Name: Sergei
+* &nbsp;Surname: Razdobudko
+* &nbsp;Date of birth: 13 November 1988
+* &nbsp;Education: High school
+* &nbsp;Gender: Male
 
-### &nbsp;Образование:
-* КФ СПбУ МВД Российской Федерации Юриспруденция, 2018 год
-* Университет "Нетология", с 2021 года по настоящее время
+### &nbsp;Education:
+* St. Petersburg University of the Russian Interior Ministry, 2018
+* University "Netology", Android engineer, 2023
 
-### &nbsp;Увлечения:
-* писать код )
-* ранее увлекался пауэрлифтингом, кандидат в мастера спорта
+### &nbsp;Occupation:
+* [Wildberries](https://www.wildberries.ru/), Jul 2022 - Present
 
-### &nbsp;Личные качества:
-* отсутствие вредных привычек
-* энергичный
-* инициативный
-* ответственный
-* коммуникабельный
-* быстро обучаемый
-* легко вливаюсь в новый коллектив и нахожу общий язык с незнакомыми людьми
-* целеустремленный
-* настойчивый и решительный
+### &nbsp;About me:
+I am a goal-oriented and motivated professional in the field of Android application development. I have the ability to work effectively in a team, and my experience includes successful participation in projects where I demonstrated the capability to achieve set goals collaboratively. One of my strengths is my eagerness to learn and adapt to new technologies, enabling me to stay current in the rapidly evolving development landscape. When tackling challenges, I prefer not only to find a solution but also to understand the root cause of the issue. This approach allows me to propose more insightful and effective solutions, rather than applying quick fixes without understanding how they work. My work philosophy is anchored in the pursuit of continuous professional growth. I am confident that my dedication to learning and commitment to excellence can make a significant contribution to the success of your company.
 
-### &nbsp;Обо мне:
-Самостоятельно изучаю языки программирования, начинал с C++ и C#, позже перешел на Java, а уже потом непосредственно на Kotlin, детально начал изучать разработку мобильных приложений под ОС Android. Нравится писать код, и все свое свободное время стараюсь посвещать этому. В данный момент прохожу курс Android-разработчик университета Нетологии с освоением таких языков как Java/Kotlin. Уверенно пользуюсь Intellij IDEA и Android Studio. Достаточно хорошо владею навыками использования систем контроля версий Git. Имею базовые знания в SQL на уровне написания простых запросов. У меня математический склад ума и хорошо развитое логическое мышление. Над задачей обычно сижу до тех пор, пока не решу. Навык английского Elementary, возможно выше, имею большой словарный запас, знаний хватает для чтения официальной документациино, но не очень хорошо воспринимаю на слух. Опыт в программировании около года в различных учебных проектах и тестовых заданиях.
 
 ### &nbsp;Стек технологий:
 
@@ -47,43 +34,37 @@
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/git.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/github.png"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gitlab.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gradle.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/junit4.png" title="JUnit"  alt="JUnit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/jetpack-compose.png" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/rxjava.png" title="RXJava" alt="RXJava" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/jetpack-compose.png" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp
 </div>
 
 <details>
-  <summary>Полный перечень:</summary>
+  <summary>Full list:</summary>
  
-* Java
-* Kotlin
-* Linux
+* Java/Kotlin
+* Linux/Bash
 * Android Studio
-* Intellij Idea
-* Git
-* GitHub
-* GitLab
-* BitBucket
+* Android SDK
+* Git/GitHub/GitLab
 * Gradle
-* JUnit4
-* Retrofit
-* Hilt
+* JUnit4/MockK/Espresso
+* Retrofit/GraphQL/gRPC
+* Dagger/Hilt/Coin
 * FireBase
 * Sql
-* Jetpack Navigation
 * JetPack Compose
-* MVVM
+* MVVM/MVI
 * Coroutines
-* RXJava
-* Retrofit
 * Room
+* CI/CD -> Gitlab/Github actions
+* Youtrack/Scrum/Kanban
+* Material Design
 </details>
 
 <details>
-<summary>Статистика GitHub:</summary>
+<summary>Statistics GitHub:</summary>
 <p align="left">
 <a href="https://github.com/mcmouse88">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcmouse88&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -101,7 +82,7 @@
 </p>
 </details>
 
-### &nbsp;Контакты:
+### &nbsp;Contacts:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sergey-razdobudko-074b06237">
@@ -110,13 +91,10 @@
   <a href="https://www.instagram.com/sergei_razdobudko">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://t.me/T4e_S1nner">
+  <a href="https://t.me/whoami_root">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://gitlab.com/mcmouse88">
     <img src="https://img.shields.io/badge/Gitlab-ffae00?style=for-the-badge&logo=gitlab&logoColor=orange" alt="Gitlab Badge"/>
-  </a>
-  <a href="https://bitbucket.org/mcmouse88/">
-    <img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=00ddff" alt="Bitbucket Badge"/>
   </a>
 </div>

@@ -1,4 +1,4 @@
-# Раздобудько Сергей Петрович
+# Razdobudko Sergei
 
 ![Banner](https://github.com/mcmouse88/mcmouse88/blob/main/photo/photo.png)
 
